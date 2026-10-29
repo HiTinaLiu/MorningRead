@@ -1,0 +1,57 @@
+import type { ReadingProps } from "./types";
+
+export const SAMPLE: ReadingProps = {
+  title: "Look Around",
+  series: "英语晨读",
+  level: "小学低年级",
+  coverTitle: "英语美文晨读 - 低年级",
+  subtitle: "Look Around",
+  theme: "sun",
+  pages: [
+    {
+      id: "intro",
+      kind: "intro",
+      index: 0,
+      title: "Look Around",
+      keyword: "sunrise",
+      image: null,
+      credit: "",
+      line: {
+        id: "intro",
+        lang: "zh",
+        text: "早上好。今天我们一起读：英语美文晨读 Look Around。请跟我读英文，中文看屏幕。",
+        subtitle: "",
+        audioUrl: "",
+        audioMs: 4200,
+        speechMs: 4000,
+        pauseMs: 700,
+        words: [],
+      },
+    },
+    {
+      id: "s0",
+      kind: "sentence",
+      index: 1,
+      title: "Look Around",
+      keyword: "tiger",
+      image: null,
+      credit: "",
+      line: {
+        id: "s0",
+        lang: "en",
+        text: "I see a tiger.",
+        subtitle: "我看见一只老虎。",
+        audioUrl: "",
+        audioMs: 1800,
+        speechMs: 1600,
+        pauseMs: 2800,
+        words: [
+          { text: "I", startMs: 80, endMs: 280 },
+          { text: "see", startMs: 280, endMs: 620 },
+          { text: "a", startMs: 620, endMs: 780 },
+          { text: "tiger", startMs: 780, endMs: 1400 },
+        ],
+      },
+    },
+  ],
+};

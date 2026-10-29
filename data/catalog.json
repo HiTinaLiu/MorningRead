@@ -1,0 +1,1379 @@
+{
+  "title": "英语晨读",
+  "level": "小学低年级",
+  "source": "1.txt",
+  "notes": "视频按句分页：英文朗读，中文只显示。",
+  "pieces": [
+    {
+      "id": "look-around",
+      "file": "01-look-around.txt",
+      "title": "Look Around",
+      "basedOn": [
+        "开篇短句（动物与人物）"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Look Around。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I see a tiger.",
+          "zh": "我看见一只老虎。"
+        },
+        {
+          "en": "The tiger is big and strong.",
+          "zh": "老虎又大又壮。"
+        },
+        {
+          "en": "I have a pet.",
+          "zh": "我有一只宠物。"
+        },
+        {
+          "en": "My pet is a little bird.",
+          "zh": "我的宠物是一只小鸟。"
+        },
+        {
+          "en": "You are a boy.",
+          "zh": "你是一个男孩。"
+        },
+        {
+          "en": "She is a girl.",
+          "zh": "她是一个女孩。"
+        },
+        {
+          "en": "He can jump high.",
+          "zh": "他能跳得很高。"
+        },
+        {
+          "en": "It is a red ball.",
+          "zh": "它是一个红球。"
+        },
+        {
+          "en": "The lion is cute.",
+          "zh": "狮子很可爱。"
+        },
+        {
+          "en": "My bird can sing.",
+          "zh": "我的鸟会唱歌。"
+        },
+        {
+          "en": "This is a hen.",
+          "zh": "这是一只母鸡。"
+        },
+        {
+          "en": "The hen is in the yard.",
+          "zh": "母鸡在院子里。"
+        },
+        {
+          "en": "What do you see?",
+          "zh": "你看见什么？"
+        }
+      ]
+    },
+    {
+      "id": "lets-play",
+      "file": "02-lets-play.txt",
+      "title": "Let's Play",
+      "basedOn": [
+        "开篇短句（玩耍与日常）"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Let's Play。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "We play in the water.",
+          "zh": "我们在水里玩。"
+        },
+        {
+          "en": "They like to play football.",
+          "zh": "他们喜欢踢足球。"
+        },
+        {
+          "en": "You and I dance happily.",
+          "zh": "你和我开心地跳舞。"
+        },
+        {
+          "en": "Let's share this yummy cake.",
+          "zh": "我们一起分享这块美味的蛋糕吧。"
+        },
+        {
+          "en": "A puppy sees a butterfly.",
+          "zh": "一只小狗看见一只蝴蝶。"
+        },
+        {
+          "en": "His mum feels cold today.",
+          "zh": "他的妈妈今天觉得冷。"
+        },
+        {
+          "en": "Her dad likes jumping rope.",
+          "zh": "她的爸爸喜欢跳绳。"
+        },
+        {
+          "en": "This is your fat cat.",
+          "zh": "这是你的胖猫。"
+        },
+        {
+          "en": "That is my good friend.",
+          "zh": "那是我的好朋友。"
+        },
+        {
+          "en": "The dog barks at him.",
+          "zh": "狗对着他叫。"
+        },
+        {
+          "en": "Are you happy to be here?",
+          "zh": "你很高兴来这里吗？"
+        },
+        {
+          "en": "Look at the cute little baby.",
+          "zh": "看这个可爱的小宝宝。"
+        },
+        {
+          "en": "We must use an umbrella today.",
+          "zh": "我们今天必须打伞。"
+        },
+        {
+          "en": "How many flowers do you see?",
+          "zh": "你看见多少朵花？"
+        },
+        {
+          "en": "He walks in puddles with me.",
+          "zh": "他和我一起踩水坑。"
+        },
+        {
+          "en": "I think this dress is wonderful.",
+          "zh": "我觉得这条裙子很棒。"
+        },
+        {
+          "en": "Can you do me a favour?",
+          "zh": "你能帮我一个忙吗？"
+        },
+        {
+          "en": "Please paint a picture for me.",
+          "zh": "请给我画一幅画。"
+        },
+        {
+          "en": "Get up early in the morning.",
+          "zh": "早上早起。"
+        },
+        {
+          "en": "I want to eat more food.",
+          "zh": "我想再吃一点。"
+        },
+        {
+          "en": "Come and play with me.",
+          "zh": "来和我一起玩吧。"
+        }
+      ]
+    },
+    {
+      "id": "we-are-ready",
+      "file": "03-we-are-ready.txt",
+      "title": "We Are Ready",
+      "basedOn": [
+        "We Are Ready",
+        "Ready for Class"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 We Are Ready。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "Stand up, please.",
+          "zh": "请起立。"
+        },
+        {
+          "en": "Sit down, please.",
+          "zh": "请坐下。"
+        },
+        {
+          "en": "Be quiet, please.",
+          "zh": "请安静。"
+        },
+        {
+          "en": "Pay attention, please.",
+          "zh": "请注意听。"
+        },
+        {
+          "en": "We are ready for class.",
+          "zh": "我们准备好上课了。"
+        },
+        {
+          "en": "Please show me your book.",
+          "zh": "请把书给我看。"
+        },
+        {
+          "en": "Please open your book.",
+          "zh": "请打开书。"
+        },
+        {
+          "en": "Please close your book.",
+          "zh": "请合上书。"
+        },
+        {
+          "en": "Please take your seat.",
+          "zh": "请坐好。"
+        },
+        {
+          "en": "Please listen carefully.",
+          "zh": "请仔细听。"
+        },
+        {
+          "en": "Eyes on me, please.",
+          "zh": "请看着我。"
+        },
+        {
+          "en": "Good. We are ready.",
+          "zh": "很好。我们准备好了。"
+        }
+      ]
+    },
+    {
+      "id": "a-good-day",
+      "file": "04-a-good-day.txt",
+      "title": "A Good Day",
+      "basedOn": [
+        "The New Friends",
+        "A Good Day",
+        "Names"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 A Good Day。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "Hello! I'm Bob.",
+          "zh": "你好！我是鲍勃。"
+        },
+        {
+          "en": "Hello! I'm Mike.",
+          "zh": "你好！我是迈克。"
+        },
+        {
+          "en": "Nice to meet you!",
+          "zh": "很高兴认识你！"
+        },
+        {
+          "en": "Nice to meet you, too.",
+          "zh": "我也很高兴认识你。"
+        },
+        {
+          "en": "Good morning, Bob.",
+          "zh": "早上好，鲍勃。"
+        },
+        {
+          "en": "Good afternoon, Mike.",
+          "zh": "下午好，迈克。"
+        },
+        {
+          "en": "Good evening, Sarah.",
+          "zh": "晚上好，萨拉。"
+        },
+        {
+          "en": "Good night, Linda.",
+          "zh": "晚安，琳达。"
+        },
+        {
+          "en": "My name is Bob.",
+          "zh": "我的名字是鲍勃。"
+        },
+        {
+          "en": "What's your name?",
+          "zh": "你叫什么名字？"
+        },
+        {
+          "en": "My name is Linda.",
+          "zh": "我的名字是琳达。"
+        },
+        {
+          "en": "What a good day!",
+          "zh": "多美好的一天！"
+        }
+      ]
+    },
+    {
+      "id": "i-can",
+      "file": "05-i-can.txt",
+      "title": "I Can",
+      "basedOn": [
+        "I Can",
+        "Let's Go",
+        "Have Fun"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 I Can。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I can jump.",
+          "zh": "我会跳。"
+        },
+        {
+          "en": "I can jump high.",
+          "zh": "我能跳得很高。"
+        },
+        {
+          "en": "I can run.",
+          "zh": "我会跑。"
+        },
+        {
+          "en": "I can run fast.",
+          "zh": "我能跑得很快。"
+        },
+        {
+          "en": "What can you do?",
+          "zh": "你会做什么？"
+        },
+        {
+          "en": "I can sing a song.",
+          "zh": "我会唱一首歌。"
+        },
+        {
+          "en": "I can draw a sun.",
+          "zh": "我会画一个太阳。"
+        },
+        {
+          "en": "Let's run together.",
+          "zh": "我们一起跑吧。"
+        },
+        {
+          "en": "Let's jump together.",
+          "zh": "我们一起跳吧。"
+        },
+        {
+          "en": "Let's play together.",
+          "zh": "我们一起玩吧。"
+        },
+        {
+          "en": "Let's turn around together.",
+          "zh": "我们一起转身吧。"
+        },
+        {
+          "en": "Let's go to school together.",
+          "zh": "我们一起去上学吧。"
+        },
+        {
+          "en": "I can jump rope.",
+          "zh": "我会跳绳。"
+        },
+        {
+          "en": "I can do sit-ups.",
+          "zh": "我会做仰卧起坐。"
+        },
+        {
+          "en": "I can build with blocks.",
+          "zh": "我会用积木搭建。"
+        },
+        {
+          "en": "They are all fun.",
+          "zh": "这些都很有趣。"
+        },
+        {
+          "en": "You should try them too.",
+          "zh": "你也应该试一试。"
+        }
+      ]
+    },
+    {
+      "id": "ready-for-school",
+      "file": "06-ready-for-school.txt",
+      "title": "Ready for School",
+      "basedOn": [
+        "Go to School",
+        "Ready for School"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Ready for School。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "It's my book.",
+          "zh": "这是我的书。"
+        },
+        {
+          "en": "It's my eraser.",
+          "zh": "这是我的橡皮。"
+        },
+        {
+          "en": "It's my ruler.",
+          "zh": "这是我的尺子。"
+        },
+        {
+          "en": "It's my schoolbag.",
+          "zh": "这是我的书包。"
+        },
+        {
+          "en": "It's my school.",
+          "zh": "这是我的学校。"
+        },
+        {
+          "en": "Here is my book.",
+          "zh": "这是我的书。"
+        },
+        {
+          "en": "Here is my pencil.",
+          "zh": "这是我的铅笔。"
+        },
+        {
+          "en": "Here is my pencil case.",
+          "zh": "这是我的铅笔盒。"
+        },
+        {
+          "en": "Here is my ruler.",
+          "zh": "这是我的尺子。"
+        },
+        {
+          "en": "I put my book in my schoolbag.",
+          "zh": "我把书放进书包。"
+        },
+        {
+          "en": "I'm ready for school.",
+          "zh": "我准备好上学了。"
+        },
+        {
+          "en": "Let's go.",
+          "zh": "我们走吧。"
+        }
+      ]
+    },
+    {
+      "id": "this-is-me",
+      "file": "07-this-is-me.txt",
+      "title": "This Is Me",
+      "basedOn": [
+        "My Face",
+        "You",
+        "My Body"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 This Is Me。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I have big eyes.",
+          "zh": "我有一双大眼睛。"
+        },
+        {
+          "en": "I have a small nose.",
+          "zh": "我有一个小鼻子。"
+        },
+        {
+          "en": "I have small ears.",
+          "zh": "我有一对小耳朵。"
+        },
+        {
+          "en": "I have a cute mouth.",
+          "zh": "我有一张可爱的嘴。"
+        },
+        {
+          "en": "This is me.",
+          "zh": "这就是我。"
+        },
+        {
+          "en": "You have a long nose.",
+          "zh": "你有一个长鼻子。"
+        },
+        {
+          "en": "You have a big mouth.",
+          "zh": "你有一张大嘴。"
+        },
+        {
+          "en": "You have small eyes.",
+          "zh": "你有一双小眼睛。"
+        },
+        {
+          "en": "You have a big body.",
+          "zh": "你有一个大大的身体。"
+        },
+        {
+          "en": "Wow, so cool!",
+          "zh": "哇，真酷！"
+        },
+        {
+          "en": "Can you touch your head?",
+          "zh": "你能摸摸头吗？"
+        },
+        {
+          "en": "Can you touch your arm?",
+          "zh": "你能摸摸胳膊吗？"
+        },
+        {
+          "en": "Can you touch your leg?",
+          "zh": "你能摸摸腿吗？"
+        },
+        {
+          "en": "Can you touch your feet?",
+          "zh": "你能摸摸脚吗？"
+        },
+        {
+          "en": "Can you touch your toes?",
+          "zh": "你能摸摸脚趾吗？"
+        },
+        {
+          "en": "Yes, I can.",
+          "zh": "是的，我能。"
+        }
+      ]
+    },
+    {
+      "id": "my-family",
+      "file": "08-my-family.txt",
+      "title": "My Family",
+      "basedOn": [
+        "Family",
+        "My Big Family",
+        "Who",
+        "Guess"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 My Family。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "This is my mother.",
+          "zh": "这是我的妈妈。"
+        },
+        {
+          "en": "This is my father.",
+          "zh": "这是我的爸爸。"
+        },
+        {
+          "en": "This is my sister.",
+          "zh": "这是我的姐姐。"
+        },
+        {
+          "en": "This is my brother.",
+          "zh": "这是我的哥哥。"
+        },
+        {
+          "en": "We are a family.",
+          "zh": "我们是一家人。"
+        },
+        {
+          "en": "My mother is kind.",
+          "zh": "我的妈妈很和蔼。"
+        },
+        {
+          "en": "My father is nice.",
+          "zh": "我的爸爸很亲切。"
+        },
+        {
+          "en": "My sister is cool.",
+          "zh": "我的姐姐很酷。"
+        },
+        {
+          "en": "My brother is cute.",
+          "zh": "我的哥哥很可爱。"
+        },
+        {
+          "en": "I love my big family.",
+          "zh": "我爱我的大家庭。"
+        },
+        {
+          "en": "Who is she?",
+          "zh": "她是谁？"
+        },
+        {
+          "en": "She is my mother.",
+          "zh": "她是我的妈妈。"
+        },
+        {
+          "en": "Who is he?",
+          "zh": "他是谁？"
+        },
+        {
+          "en": "He is my father.",
+          "zh": "他是我的爸爸。"
+        },
+        {
+          "en": "Who is that girl?",
+          "zh": "那个女孩是谁？"
+        },
+        {
+          "en": "She is my sister.",
+          "zh": "她是我的姐姐。"
+        },
+        {
+          "en": "Who is that woman?",
+          "zh": "那位女士是谁？"
+        },
+        {
+          "en": "She is my grandma.",
+          "zh": "她是我的奶奶。"
+        },
+        {
+          "en": "Who is that man?",
+          "zh": "那位男士是谁？"
+        },
+        {
+          "en": "He is my grandpa.",
+          "zh": "他是我的爷爷。"
+        },
+        {
+          "en": "I love my mother and father.",
+          "zh": "我爱我的爸爸和妈妈。"
+        }
+      ]
+    },
+    {
+      "id": "happy-birthday",
+      "file": "09-happy-birthday.txt",
+      "title": "Happy Birthday",
+      "basedOn": [
+        "Birthday"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Happy Birthday。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "A book for you.",
+          "zh": "这本书送给你。"
+        },
+        {
+          "en": "A toy car for you.",
+          "zh": "这辆玩具车送给你。"
+        },
+        {
+          "en": "A cute doll for you.",
+          "zh": "这个可爱的娃娃送给你。"
+        },
+        {
+          "en": "A gift for you.",
+          "zh": "这份礼物送给你。"
+        },
+        {
+          "en": "Happy birthday to you!",
+          "zh": "祝你生日快乐！"
+        },
+        {
+          "en": "We sing a song for you.",
+          "zh": "我们为你唱一首歌。"
+        },
+        {
+          "en": "We clap our hands.",
+          "zh": "我们拍手。"
+        },
+        {
+          "en": "Make a wish.",
+          "zh": "许个愿吧。"
+        },
+        {
+          "en": "Blow out the candles.",
+          "zh": "吹灭蜡烛。"
+        },
+        {
+          "en": "This is a happy day.",
+          "zh": "这是快乐的一天。"
+        }
+      ]
+    },
+    {
+      "id": "foods-i-like",
+      "file": "10-foods-i-like.txt",
+      "title": "Foods I Like",
+      "basedOn": [
+        "I Like",
+        "I Don't Like"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Foods I Like。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I like apples.",
+          "zh": "我喜欢苹果。"
+        },
+        {
+          "en": "I like bananas.",
+          "zh": "我喜欢香蕉。"
+        },
+        {
+          "en": "I like noodles.",
+          "zh": "我喜欢面条。"
+        },
+        {
+          "en": "I like soup.",
+          "zh": "我喜欢汤。"
+        },
+        {
+          "en": "I like all these foods.",
+          "zh": "这些食物我都喜欢。"
+        },
+        {
+          "en": "I don't like carrots.",
+          "zh": "我不喜欢胡萝卜。"
+        },
+        {
+          "en": "I don't like tomatoes.",
+          "zh": "我不喜欢西红柿。"
+        },
+        {
+          "en": "I don't like rice.",
+          "zh": "我不喜欢米饭。"
+        },
+        {
+          "en": "I don't like meat.",
+          "zh": "我不喜欢肉。"
+        },
+        {
+          "en": "But I can give them a try.",
+          "zh": "但我可以试一试。"
+        },
+        {
+          "en": "What do you like?",
+          "zh": "你喜欢什么？"
+        },
+        {
+          "en": "I like fruit and soup.",
+          "zh": "我喜欢水果和汤。"
+        },
+        {
+          "en": "Let's eat together.",
+          "zh": "我们一起吃吧。"
+        }
+      ]
+    },
+    {
+      "id": "what-do-you-want",
+      "file": "11-what-do-you-want.txt",
+      "title": "What Do You Want",
+      "basedOn": [
+        "I want",
+        "What Can You Do"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 What Do You Want。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I want a dog.",
+          "zh": "我想要一只狗。"
+        },
+        {
+          "en": "I want a bird.",
+          "zh": "我想要一只鸟。"
+        },
+        {
+          "en": "I want a fish.",
+          "zh": "我想要一条鱼。"
+        },
+        {
+          "en": "I want a rabbit.",
+          "zh": "我想要一只兔子。"
+        },
+        {
+          "en": "What do you want?",
+          "zh": "你想要什么？"
+        },
+        {
+          "en": "I want a little cat.",
+          "zh": "我想要一只小猫。"
+        },
+        {
+          "en": "This dog can run.",
+          "zh": "这只狗会跑。"
+        },
+        {
+          "en": "This bird can fly.",
+          "zh": "这只鸟会飞。"
+        },
+        {
+          "en": "This fish can swim.",
+          "zh": "这条鱼会游。"
+        },
+        {
+          "en": "What can you do?",
+          "zh": "你会做什么？"
+        },
+        {
+          "en": "I can run, too.",
+          "zh": "我也会跑。"
+        },
+        {
+          "en": "Animals are my friends.",
+          "zh": "动物是我的朋友。"
+        }
+      ]
+    },
+    {
+      "id": "i-see-numbers",
+      "file": "12-i-see-numbers.txt",
+      "title": "I See Numbers",
+      "basedOn": [
+        "Numbers",
+        "I See"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 I See Numbers。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "What do you see?",
+          "zh": "你看见什么？"
+        },
+        {
+          "en": "I see numbers one and two.",
+          "zh": "我看见数字一和二。"
+        },
+        {
+          "en": "I see numbers three and four.",
+          "zh": "我看见数字三和四。"
+        },
+        {
+          "en": "I see number five.",
+          "zh": "我看见数字五。"
+        },
+        {
+          "en": "I see six birds.",
+          "zh": "我看见六只鸟。"
+        },
+        {
+          "en": "I see seven ants and eight bees.",
+          "zh": "我看见七只蚂蚁和八只蜜蜂。"
+        },
+        {
+          "en": "I see nine flowers and ten butterflies.",
+          "zh": "我看见九朵花和十只蝴蝶。"
+        },
+        {
+          "en": "One, two, three, four, five.",
+          "zh": "一、二、三、四、五。"
+        },
+        {
+          "en": "Six, seven, eight, nine, ten.",
+          "zh": "六、七、八、九、十。"
+        },
+        {
+          "en": "I can count to ten.",
+          "zh": "我能数到十。"
+        }
+      ]
+    },
+    {
+      "id": "colours",
+      "file": "13-colours.txt",
+      "title": "Colours",
+      "basedOn": [
+        "Colours",
+        "Let's Draw",
+        "Colourful"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Colours。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "What colour is the apple?",
+          "zh": "苹果是什么颜色？"
+        },
+        {
+          "en": "The apple is red.",
+          "zh": "苹果是红色的。"
+        },
+        {
+          "en": "What colour is the T-shirt?",
+          "zh": "T恤是什么颜色？"
+        },
+        {
+          "en": "The T-shirt is green.",
+          "zh": "T恤是绿色的。"
+        },
+        {
+          "en": "What colour is the monkey?",
+          "zh": "猴子是什么颜色？"
+        },
+        {
+          "en": "The monkey is brown.",
+          "zh": "猴子是棕色的。"
+        },
+        {
+          "en": "Let's draw a blue sky.",
+          "zh": "我们来画蓝色的天空吧。"
+        },
+        {
+          "en": "Let's draw a red bird.",
+          "zh": "我们来画一只红鸟吧。"
+        },
+        {
+          "en": "Let's draw some white clouds.",
+          "zh": "我们来画一些白云吧。"
+        },
+        {
+          "en": "Let's draw a green tree.",
+          "zh": "我们来画一棵绿树吧。"
+        },
+        {
+          "en": "Let's draw a yellow flower.",
+          "zh": "我们来画一朵黄花吧。"
+        },
+        {
+          "en": "What a beautiful picture!",
+          "zh": "多美的一幅画！"
+        },
+        {
+          "en": "The flowers are colourful.",
+          "zh": "花是五颜六色的。"
+        },
+        {
+          "en": "The house is blue and white.",
+          "zh": "房子是蓝白相间的。"
+        },
+        {
+          "en": "The tree is green.",
+          "zh": "树是绿色的。"
+        },
+        {
+          "en": "The lake is blue.",
+          "zh": "湖是蓝色的。"
+        },
+        {
+          "en": "The hill is green.",
+          "zh": "小山是绿色的。"
+        },
+        {
+          "en": "This is a picture by me.",
+          "zh": "这是我画的画。"
+        }
+      ]
+    },
+    {
+      "id": "a-clean-room",
+      "file": "14-a-clean-room.txt",
+      "title": "A Clean Room",
+      "basedOn": [
+        "Yes, I Can",
+        "A Clean Room"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 A Clean Room。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "Can you clean the room?",
+          "zh": "你能打扫房间吗？"
+        },
+        {
+          "en": "Yes, I can!",
+          "zh": "能，我能！"
+        },
+        {
+          "en": "Can you clean the floor?",
+          "zh": "你能打扫地板吗？"
+        },
+        {
+          "en": "Yes, I can!",
+          "zh": "能，我能！"
+        },
+        {
+          "en": "Can you feed the dog?",
+          "zh": "你能喂狗吗？"
+        },
+        {
+          "en": "Yes, I can.",
+          "zh": "能，我能。"
+        },
+        {
+          "en": "Put your toy car away.",
+          "zh": "把玩具车收好。"
+        },
+        {
+          "en": "Put your cute doll away.",
+          "zh": "把可爱的娃娃收好。"
+        },
+        {
+          "en": "Put your green boat away.",
+          "zh": "把绿色的小船收好。"
+        },
+        {
+          "en": "Put your big ball away.",
+          "zh": "把大球收好。"
+        },
+        {
+          "en": "Put your teddy bear away.",
+          "zh": "把泰迪熊收好。"
+        },
+        {
+          "en": "Look! The room is clean.",
+          "zh": "看！房间干净了。"
+        },
+        {
+          "en": "Good job!",
+          "zh": "做得好！"
+        }
+      ]
+    },
+    {
+      "id": "put-on-your-coat",
+      "file": "15-put-on-your-coat.txt",
+      "title": "Put On Your Coat",
+      "basedOn": [
+        "Put On"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Put On Your Coat。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I put on my T-shirt.",
+          "zh": "我穿上T恤。"
+        },
+        {
+          "en": "I put on my sweater.",
+          "zh": "我穿上毛衣。"
+        },
+        {
+          "en": "I put on my coat.",
+          "zh": "我穿上外套。"
+        },
+        {
+          "en": "I put on my scarf.",
+          "zh": "我戴上围巾。"
+        },
+        {
+          "en": "I put on my mittens.",
+          "zh": "我戴上手套。"
+        },
+        {
+          "en": "I don't feel cold now.",
+          "zh": "我现在不觉得冷了。"
+        },
+        {
+          "en": "It is cold outside.",
+          "zh": "外面很冷。"
+        },
+        {
+          "en": "Put on your coat, please.",
+          "zh": "请穿上外套。"
+        },
+        {
+          "en": "Zip it up.",
+          "zh": "把拉链拉上。"
+        },
+        {
+          "en": "Now we can go out.",
+          "zh": "现在我们可以出门了。"
+        }
+      ]
+    },
+    {
+      "id": "be-safe",
+      "file": "16-be-safe.txt",
+      "title": "Be Safe",
+      "basedOn": [
+        "Be Safe"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Be Safe。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "Don't run.",
+          "zh": "不要跑。"
+        },
+        {
+          "en": "Don't push.",
+          "zh": "不要推。"
+        },
+        {
+          "en": "Don't jump.",
+          "zh": "不要跳。"
+        },
+        {
+          "en": "Don't shout.",
+          "zh": "不要大喊。"
+        },
+        {
+          "en": "Don't climb.",
+          "zh": "不要爬。"
+        },
+        {
+          "en": "Walk, please.",
+          "zh": "请走。"
+        },
+        {
+          "en": "Use your quiet voice.",
+          "zh": "请小声说话。"
+        },
+        {
+          "en": "Hold the rail.",
+          "zh": "抓住栏杆。"
+        },
+        {
+          "en": "Play safely and have fun.",
+          "zh": "安全地玩，玩得开心。"
+        },
+        {
+          "en": "We play, and we stay safe.",
+          "zh": "我们玩耍，也注意安全。"
+        }
+      ]
+    },
+    {
+      "id": "whats-the-weather",
+      "file": "17-whats-the-weather.txt",
+      "title": "What's the Weather",
+      "basedOn": [
+        "Weather"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 What's the Weather。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "What's the weather like?",
+          "zh": "天气怎么样？"
+        },
+        {
+          "en": "It's sunny.",
+          "zh": "天气晴朗。"
+        },
+        {
+          "en": "What's the weather like?",
+          "zh": "天气怎么样？"
+        },
+        {
+          "en": "It's rainy.",
+          "zh": "在下雨。"
+        },
+        {
+          "en": "What's the weather like today?",
+          "zh": "今天天气怎么样？"
+        },
+        {
+          "en": "It's nice. Let's go out to play.",
+          "zh": "天气很好。我们出去玩吧。"
+        },
+        {
+          "en": "I take my umbrella.",
+          "zh": "我带上雨伞。"
+        },
+        {
+          "en": "The sun is warm.",
+          "zh": "太阳很暖和。"
+        },
+        {
+          "en": "We can fly a kite.",
+          "zh": "我们可以放风筝。"
+        },
+        {
+          "en": "What a nice day!",
+          "zh": "多好的一天！"
+        }
+      ]
+    },
+    {
+      "id": "what-are-you-doing",
+      "file": "18-what-are-you-doing.txt",
+      "title": "What Are You Doing",
+      "basedOn": [
+        "Are You Busy",
+        "Talking to you",
+        "Join Us"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 What Are You Doing。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "Are you doing your homework?",
+          "zh": "你在做作业吗？"
+        },
+        {
+          "en": "Are you drawing a picture?",
+          "zh": "你在画画吗？"
+        },
+        {
+          "en": "Are you tidying your room?",
+          "zh": "你在整理房间吗？"
+        },
+        {
+          "en": "Are you reading a book?",
+          "zh": "你在看书吗？"
+        },
+        {
+          "en": "Are you listening to music?",
+          "zh": "你在听音乐吗？"
+        },
+        {
+          "en": "Are you coming to the party?",
+          "zh": "你来参加聚会吗？"
+        },
+        {
+          "en": "I'm not drinking.",
+          "zh": "我没有在喝东西。"
+        },
+        {
+          "en": "I'm not dancing.",
+          "zh": "我没有在跳舞。"
+        },
+        {
+          "en": "I'm not eating.",
+          "zh": "我没有在吃东西。"
+        },
+        {
+          "en": "I'm not playing with my train.",
+          "zh": "我没有在玩火车。"
+        },
+        {
+          "en": "What am I doing?",
+          "zh": "我在做什么？"
+        },
+        {
+          "en": "I'm talking to you!",
+          "zh": "我在和你说话！"
+        },
+        {
+          "en": "My mum is eating.",
+          "zh": "我妈妈在吃东西。"
+        },
+        {
+          "en": "My dad is flying a kite.",
+          "zh": "我爸爸在放风筝。"
+        },
+        {
+          "en": "My sister is reading a book.",
+          "zh": "我姐姐在看书。"
+        },
+        {
+          "en": "My grandma is sleeping.",
+          "zh": "我奶奶在睡觉。"
+        },
+        {
+          "en": "We are having a picnic.",
+          "zh": "我们在野餐。"
+        },
+        {
+          "en": "Come and join us!",
+          "zh": "来加入我们吧！"
+        }
+      ]
+    },
+    {
+      "id": "ready-to-go",
+      "file": "19-ready-to-go.txt",
+      "title": "Ready to Go",
+      "basedOn": [
+        "I Get",
+        "In the Morning"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 Ready to Go。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I wash my hands.",
+          "zh": "我洗手。"
+        },
+        {
+          "en": "I wash my face.",
+          "zh": "我洗脸。"
+        },
+        {
+          "en": "I brush my teeth.",
+          "zh": "我刷牙。"
+        },
+        {
+          "en": "I brush my hair.",
+          "zh": "我梳头。"
+        },
+        {
+          "en": "Now I am clean.",
+          "zh": "现在我干净了。"
+        },
+        {
+          "en": "I get my cap.",
+          "zh": "我拿上帽子。"
+        },
+        {
+          "en": "I get my coat.",
+          "zh": "我拿上外套。"
+        },
+        {
+          "en": "I get my bottle.",
+          "zh": "我拿上水瓶。"
+        },
+        {
+          "en": "I get my bag.",
+          "zh": "我拿上包。"
+        },
+        {
+          "en": "I am ready to go.",
+          "zh": "我准备好出发了。"
+        },
+        {
+          "en": "Good morning!",
+          "zh": "早上好！"
+        },
+        {
+          "en": "I am ready for a new day.",
+          "zh": "我准备好迎接新的一天。"
+        }
+      ]
+    },
+    {
+      "id": "what-do-you-have",
+      "file": "20-what-do-you-have.txt",
+      "title": "What Do You Have",
+      "basedOn": [
+        "What Do You Have"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 What Do You Have。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "I have a red car.",
+          "zh": "我有一辆红色的小汽车。"
+        },
+        {
+          "en": "I have an orange ball.",
+          "zh": "我有一个橙色的球。"
+        },
+        {
+          "en": "I have a new book.",
+          "zh": "我有一本新书。"
+        },
+        {
+          "en": "I have a green boat.",
+          "zh": "我有一艘绿色的小船。"
+        },
+        {
+          "en": "I have a black dress.",
+          "zh": "我有一条黑色的裙子。"
+        },
+        {
+          "en": "What do you have?",
+          "zh": "你有什么？"
+        },
+        {
+          "en": "I have a yellow pencil.",
+          "zh": "我有一支黄色的铅笔。"
+        },
+        {
+          "en": "I have a blue bag.",
+          "zh": "我有一个蓝色的包。"
+        },
+        {
+          "en": "Show me what you have.",
+          "zh": "给我看看你有什么。"
+        },
+        {
+          "en": "We can share.",
+          "zh": "我们可以分享。"
+        }
+      ]
+    },
+    {
+      "id": "a-balloon-game",
+      "file": "21-a-balloon-game.txt",
+      "title": "A Balloon Game",
+      "basedOn": [
+        "A Balloon"
+      ],
+      "introZh": "早上好。今天我们一起读：英语美文晨读 A Balloon Game。请跟我读英文，中文看屏幕。",
+      "sentences": [
+        {
+          "en": "Hippo uses his head.",
+          "zh": "河马用头。"
+        },
+        {
+          "en": "Monkey uses his hand.",
+          "zh": "猴子用手。"
+        },
+        {
+          "en": "Tiger uses his tail.",
+          "zh": "老虎用尾巴。"
+        },
+        {
+          "en": "Wolf uses his teeth.",
+          "zh": "狼用牙齿。"
+        },
+        {
+          "en": "Pass the balloon to Hedgehog.",
+          "zh": "把气球传给刺猬。"
+        },
+        {
+          "en": "Oh no! The balloon pops!",
+          "zh": "哦不！气球破了！"
+        },
+        {
+          "en": "We all laugh.",
+          "zh": "我们都笑了。"
+        },
+        {
+          "en": "Let's try again.",
+          "zh": "我们再试一次吧。"
+        },
+        {
+          "en": "Pass it slowly.",
+          "zh": "慢慢传。"
+        },
+        {
+          "en": "This game is fun.",
+          "zh": "这个游戏很好玩。"
+        }
+      ]
+    }
+  ]
+}
