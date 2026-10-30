@@ -9,14 +9,14 @@ from pathlib import Path
 
 from fastapi import HTTPException
 
-from app.config import DATA_DIR, HOST, PORT
+from app.config import HOST, OUTPUT_DIR, PORT
 from app.drafts import script_for
 from app.pictures import media_file, resolve_picture
 
 PAGE_W, PAGE_H = 1240, 1754
 MARGIN = 48
 PER_PAGE = 4
-FOLDER = DATA_DIR / "videos"
+FOLDER = OUTPUT_DIR / "videos"
 
 # Same ids and colors as apps/video/src/looks.ts.
 LOOKS = {

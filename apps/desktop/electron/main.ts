@@ -60,6 +60,7 @@ async function ensureApi(): Promise<void> {
       PYTHONUNBUFFERED: "1",
       MORNINGREAD_ROOT: root,
       MORNINGREAD_DATA_DIR: app.getPath("userData"),
+      MORNINGREAD_OUTPUT_DIR: path.join(app.getPath("downloads"), "MorningRead"),
     },
     stdio: "inherit",
   });

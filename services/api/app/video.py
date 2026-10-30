@@ -10,12 +10,12 @@ from pathlib import Path
 
 from fastapi import HTTPException
 
-from app.config import DATA_DIR, HOST, PORT, VIDEO_APP
+from app.config import HOST, OUTPUT_DIR, PORT, VIDEO_APP
 from app.drafts import script_for
 from app.pictures import media_file, resolve_picture
 from app.tts import speak_batch, speakable
 
-VIDEO_DIR = DATA_DIR / "videos"
+VIDEO_DIR = OUTPUT_DIR / "videos"
 API = f"http://{HOST}:{PORT}"
 FPS = 30
 LINE_GAP = 8
